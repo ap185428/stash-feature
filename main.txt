@@ -11,3 +11,5 @@ a*b
 
 Implement divide function here
 a/b
+
+Adding this line of code to see how to manage conflicts in stash ---> this line is added in main branch
