@@ -1,5 +1,6 @@
 # stash-feature
 
+## Part - 1 Without conflicts
 $ git stash save "added formulas"
 
 $ git stash list
@@ -20,3 +21,5 @@ no changes added to commit (use "git add" and/or "git commit -a")
 Dropped refs/stash@{0} (42f3094b5a194bf4fa7e2cbdea67b4010959c58c)
 
 $ git stash drop
+
+## Part - 2 With conflicts
