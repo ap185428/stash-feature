@@ -24,14 +24,14 @@ $ git stash drop
 
 ## Part - 2 With conflicts
 
-Created branch add-square from main
-Made changes in add-square main.txt and saved a stash from it
-Made changes in main main.txt and commited those
-Tried to apply the stash to main
-Got merge conflict as both stash and main had made changes starting from same point in time to main.txt
-Opened main.txt and resolved the conflicts
-git add .           ---------> while on main branch in git bash
-git commit -m "resolved conflicts"           ---------> while on main branch in git bash
-git stash apply stash@{0}
-
+Created branch add-square from main <br>
+Made changes in add-square main.txt and saved a stash from it <br>
+Made changes in main main.txt and commited those <br>
+Tried to apply the stash to main <br>
+Got merge conflict as both stash and main had made changes starting from same point in time to main.txt <br>
+Opened main.txt and resolved the conflicts <br>
+git add .           ---------> while on main branch in git bash <br>
+git commit -m "resolved conflicts"           ---------> while on main branch in git bash <br>
+git stash apply stash@{0} <br>
+<br>
 stash applied successfully
