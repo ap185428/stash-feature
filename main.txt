@@ -1,9 +1,13 @@
 2 variables ---> a, b
 
 Implement add function here
+a+b
 
 Implement subtract function here
+a-b
 
 Implement multiply function here
+a*b
 
 Implement divide function here
+a/b
