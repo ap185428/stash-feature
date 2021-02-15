@@ -13,3 +13,10 @@ Implement divide function here
 a/b
 
 Adding this line of code to see how to manage conflicts in stash ---> this line is added in main branch
+
+Implement square function here
+a*a
+b*b
+
+Implement add square function here
+(a+b)^2 = a^2 + b^2 + 2*a*b
